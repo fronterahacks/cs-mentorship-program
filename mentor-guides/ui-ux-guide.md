@@ -39,5 +39,8 @@
         - Design
         - Understand the process of adding and checking things off and how fast the user will be able to do those things
 
-## Navigating academic UI/UX Research
-    - 
+## Navigating Academic UI/UX Research
+- Explore research symposiums and opportunities to showcase design projects
+- Learn to combine research methods (surveys, interviews, usability testing) with design practice
+- Collaborate with faculty, peers, or interdisciplinary teams on UI/UX-related projects
+- Stay updated with journals, conferences, and online UI/UX case studies
