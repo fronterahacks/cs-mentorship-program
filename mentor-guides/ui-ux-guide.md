@@ -35,9 +35,10 @@
         - Necessary to show off your abilities
             - Many recruiters look at portfolios and choose whether to give interviews based on that.
     
-    - To-Do list
-        - Design
-        - Understand the process of adding and checking things off and how fast the user will be able to do those things
+    - To-Do List Project
+        - Design the interface and experience
+        - Explore how users add, check, and organize tasks
+        - Focus on speed, usability, and intuitive interaction
 
 ## Navigating Academic UI/UX Research
 - Explore research symposiums and opportunities to showcase design projects
