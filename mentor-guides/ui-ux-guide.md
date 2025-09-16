@@ -1,4 +1,13 @@
-## Navigating UI/UX Career Paths
+# UI/UX Learning Guide 🎨
+
+## Introductions and Goals
+
+- Introductions
+- Career Paths Overview
+- Define two short-term goals to accomplish by the end of academic year
+- Define long-term career goals
+- About UI/UX Research and Design Thinking
+
 ## What is UI/UX and what are the different career paths [Career Tracks](https://www.geeksforgeeks.org/blogs/how-to-become-a-ui-ux-designer-a-complete-roadmap/)
 - Product/Interaction Design Roles
     - UX Designer
