@@ -18,10 +18,10 @@
     - UI Designer
     - Content Designer or UX Writer
     - UX Engineer
-- Management
-    - Craft your experience in the product design cycle as a whole
-- Specialist
-    - Focus on a craft (ie. design skills)
+- Management Path
+    - Craft and broaden experience across the product design cycle
+- Specialist Path
+    - Focus deeply on one area of design (ex: research, prototyping, accessibility, or motion design)
 
 - Potential Projects
     - Redesign a [Popular App](https://uxmag.com/articles/how-to-redesign-an-app-when-to-do-it-and-what-to-start-with)
