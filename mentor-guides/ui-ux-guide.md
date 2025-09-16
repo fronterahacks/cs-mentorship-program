@@ -1,106 +1,34 @@
-# UI/UX Learning Guide 🎨
+## Navigating UI/UX Career Paths
+- What is UI/UX and what are the different career paths [Career Tracks](https://www.geeksforgeeks.org/blogs/how-to-become-a-ui-ux-designer-a-complete-roadmap/)
+    - Product/Interaction Design Roles
+        - UX Designer
+        - UX/UI Designer
+        - Product Designer
+        - Visual Designer
+        - UX Researcher
+        - UI Designer
+        - Content Designer or UX Writer
+        - UX Engineer
+    - Management
+        - Craft your experience in the product design cycle as a whole
+    - Specialist
+        - Focus on a craft (ie. design skills)
 
-## Introductions and Goals
+- Potential Projects
+    - Redesign a [Popular App](https://uxmag.com/articles/how-to-redesign-an-app-when-to-do-it-and-what-to-start-with)
+        - Experiment by improving already existing Apps
+        - Example:
+            - Improving Youtube's Home page
 
-- Introductions
-- Career Paths Overview
-- Define two short-term goals to accomplish by the end of academic year
-- Define long-term career goals
-- About UI/UX Research and Design Thinking
+    - Create a Personal [Portfolio Website](https://github.com/cemalgnlts/personal-portfolio) (Important)
+        - Design a landing page about yourself
+            - Show off your skills and knowledge
+        - Necessary to show off your abilities
+            - Many recruiters look at portfolios and choose whether to give interviews based on that.
+    
+    - To-Do list
+        - Design
+        - Understand the process of adding and checking things off and how fast the user will be able to do those things
 
-# Core UI/UX Fundamentals
-
-## Design Thinking Process
-
-- Empathize - Understanding user needs through research
-- Define - Synthesizing observations into problem statements
-- Ideate - Brainstorming creative solutions
-- Prototype - Building testable representations
-- Test - Gathering user feedback and iterating
-
-
-## Essential Design Principles
-
-- Hierarchy and visual flow
-- Color theory and accessibility
-- Typography and readability
-- Layout and spacing
-- Consistency and design systems
-
-
-## User Research Methods
-
-- User interviews and surveys
-- Usability testing
-- Card sorting and tree testing
-- Analytics and heatmap analysis
-- Personas and user journey mapping
-
-
-
-## Tools and Software Mastery
-
-- Design Tools
-
-    - Figma (industry standard)
-    - Adobe Creative Suite (Photoshop, Illustrator, XD)
-    - Sketch (Mac-based design)
-    - Framer (advanced prototyping)
-
-
-## Prototyping Tools
-
-- InVision
-- Principle
-- ProtoPie
-
-
-## Research Tools
-
-- Maze
-- Hotjar
-- UserTesting
-- Optimal Workshop
-
-
-## Building Your Portfolio
-
-- Portfolio Website Creation
-
-    - Personal branding and storytelling
-    - Case study structure and presentation
-    - Showcasing design process, not just final designs
-    - Mobile-responsive design
-
-
-## Essential Portfolio Projects
-
-- Redesign of Popular App
-
-    - Choose an app with clear usability issues
-    - Document current pain points
-    - Present research-driven solutions
-        - Example: Improving YouTube's discovery experience
-
-
-## Original Product Design
-
-- Identify a real user problem
-- Design end-to-end solution
-- Include user research and testing
-
-
-## Design System Creation
-
-- Create consistent component library
-- Document design tokens and usage guidelines
-- Show scalability thinking
-
-
-
-
-## Assignment!
-
-- Begin sketching ideas for your first portfolio project
-- Set up accounts on Figma and Behance/Dribbble
-- Research 3 designers whose work inspires you and analyze their portfolio structure
+## Navigating academic UI/UX Research
+    - 
