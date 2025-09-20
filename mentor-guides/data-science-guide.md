@@ -1,13 +1,13 @@
 # Data Science Guide 📊
 
-## Introductions and goals
+## Introductions and Goals
 - Introductions  
 - Define two short-term goals to accomplish by the end of the academic year  
 - Define long-term career goals  
 - Alternate careers: machine learning engineering, analytics, research, product management, etc.  
 - Ask if they are interested in doing a project!
 
-## Different career paths for Data Science
+## Different Career Paths for Data Science
 - Types of [Jobs](https://www.indeed.com/career-advice/finding-a-job/data-science-career) you can get with Data Science:
   - Data Journalist
   - Data Analyst  
@@ -38,7 +38,7 @@
     - Get advice for your own career journey  
     - Stay connected  
 
-## Getting started in your career
+## Getting Started in your Career
 - Resume review
   - [Overleaf LaTeX Templates](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)  
 - Establish your own "FAANG" for Data Science
@@ -97,14 +97,14 @@
 - Mock interview (technical + behavioral)  
 - Assignments
   - SQL/Stats/ML practice  
-  - Apply to three (or more) opportunities  
+  - Apply to three or more opportunities  
 
-## Copmleting Project & Interview Prep
+## Completing Project & Interview Prep
 - Start wrapping up the project (Optional)
   - Create a presentation slide  
-  - What did they learn?  
-  - What could have been better?  
-  - Did they get the assistance they needed?  
+  - Go over what material was learned over the mentorship program
+  - Get insight from mentee on what could be improved 
+  - Ask if the mentee was assissted enough
   - Answer 1 ML case study question (e.g., how would you build a recommendation system for Netflix?)  
 - Assignments!
   - Finish up the presentation slide (if working on a project)  
